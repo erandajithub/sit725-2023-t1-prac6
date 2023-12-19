@@ -1,0 +1,36 @@
+
+.navbar-size {
+    background-color: #2C3E50; 
+}
+
+.user-image-size {
+    height: 56px;
+    margin: 4px 0;
+}
+
+.main-body {
+    background-color: #3498DB; 
+}
+
+.materialboxed-image {
+    border: 4px solid #ECF0F1;
+}
+
+.click-me-button {
+    background-color: #E74C3C; 
+}
+
+.card-text {
+    color: #2C3E50;
+}
+
+
+.modal-content {
+    background-color: #34495E; 
+    color: #ECF0F1; 
+}
+
+
+.modal-footer {
+    background-color: #2C3E50;
+}
